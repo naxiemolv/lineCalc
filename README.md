@@ -12,7 +12,7 @@
 添加后缀于此
 suffixs = [".h",".c",".m",".hpp",".cpp",".mm"] 
 
-# 过滤的文件夹
+过滤的文件夹
 filterDirName = ["YYKit"]
 
 第一项为单行注释
